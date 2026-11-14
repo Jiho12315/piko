@@ -1,0 +1,21 @@
+{
+  "name": "테스트 슬라임",
+  "frame_size": [
+    40,
+    40
+  ],
+  "anchor": [
+    20,
+    38
+  ],
+  "icon_anchor": [
+    20,
+    14
+  ],
+  "walk_speed": 40,
+  "fps": {
+    "idle": 3,
+    "walk": 6,
+    "alert": 6
+  }
+}

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# PyInstaller
+build/
+dist/
+# piko.spec은 빌드 설정이므로 남긴다
+
+# 배포용 바로가기(PC마다 경로가 다르다. tools/make_shortcut.py로 만든다)
+*.lnk
+
+# 원본 그림(캐릭터 GIF, 배경 원본). 다듬은 결과는 assets/에 있다
+incoming/
+
+# IDE / OS
+.vscode/
+.idea/
+.claude/
+Thumbs.db
+desktop.ini

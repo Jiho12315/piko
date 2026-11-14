@@ -1,0 +1,12 @@
+{
+  "name": "펭귄",
+  "frame_size": [32, 64],
+  "anchor": [16, 61],
+  "icon_anchor": [16, 4],
+  "walk_speed": 24,
+  "fps": {
+    "idle": 2,
+    "walk": 4,
+    "alert": 4
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "소녀",
+  "frame_size": [57, 109],
+  "anchor": [28, 109],
+  "icon_anchor": [28, 0],
+  "walk_speed": 36,
+  "fps": {
+    "idle": 5,
+    "walk": 5,
+    "alert": 5
+  },
+  "front_facing_states": ["idle", "alert"]
+}

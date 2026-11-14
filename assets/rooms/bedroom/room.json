@@ -1,0 +1,9 @@
+{
+  "name": "침실",
+  "size": [464, 232],
+  "floor_y": 210,
+  "walk_range": [32, 432],
+  "default_scale": 1,
+  "layers": [],
+  "spots": []
+}
